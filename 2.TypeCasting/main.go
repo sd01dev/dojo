@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-// Что такое Type Casting?
-// Примеры
+// 1. Что такое Type Casting?
+// 2. Написать пример, с использованием приведения типов.
 
 /*
 Type Casting - приведение типов, при возможности этого. Например, int к int64 иди float к byte
